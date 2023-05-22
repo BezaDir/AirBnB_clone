@@ -1,1 +1,1 @@
-0x01. AirBnB clone - Web static project files
+This project is all about Web static projects  using HTML and CSS
